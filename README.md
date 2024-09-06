@@ -5,7 +5,8 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: Mostafa 
 - ⚡ Fun fact: ...
-
+skills
+  Html css Javascript php sql react tailwind scss firebase  
 <!---
 mostafaShandouba/mostafaShandouba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
